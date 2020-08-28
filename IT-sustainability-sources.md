@@ -1,6 +1,8 @@
 ## Sustainability and IT
 ### Sources
 
+If you have things you would like to add here - pls let me know! sebastian@itu.dk
+
 #### Definition, basics
 
 Our Common Future, From One Earth to One World
