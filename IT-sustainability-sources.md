@@ -30,7 +30,10 @@ https://digiconomist.net/bitcoin-energy-consumption
 https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes
 
 Bitcoin’s energy consumption is underestimated: A market dynamics approach
-Author links open overlay panelAlexde Vries
+Alex de Vries
+https://doi.org/10.1016/j.erss.2020.101721
+
+https://www.technologyreview.com/2017/11/16/147609/bitcoin-uses-massive-amounts-of-energybut-theres-a-plan-to-fix-it/
 
 https://doi.org/10.1016/j.erss.2020.101721
 
@@ -38,7 +41,13 @@ https://doi.org/10.1016/j.erss.2020.101721
 
 https://www.bp.com/en/global/corporate/energy-economics/energy-outlook/demand-by-sector.html
 https://iea.org
+e.g.
+https://www.iea.org/reports/global-energy-review-2020/electricity
 https://eia.gov
+e.g
+https://www.eia.gov/todayinenergy/detail.php?id=44095#
+https://www.eia.gov/outlooks/aeo/pdf/AEO2020%20Full%20Report.pdf
+
 https://yearbook.enerdata.net/electricity/electricity-domestic-consumption-data.html
 https://ember-climate.org/wp-content/uploads/2020/03/Ember-2020GlobalElectricityReview-Web.pdf 
 
@@ -87,6 +96,9 @@ Joao Lima, 12 Dec 2017
 
 https://www.broad-group.com/data/news/documents/b1m2y6qlx5dv5t
 
+Dirty Streaming - the BBC video
+https://www.bbc.com/news/av/stories-51742336
+
 
 Recalibrating global data center energy-use estimates
 
@@ -98,4 +110,24 @@ Vol. 367, Issue 6481, pp. 984-986
 DOI: 10.1126/science.aba3758 
 
 https://science.sciencemag.org/content/367/6481/984.full
+
+https://energyinnovation.org/2020/03/17/how-much-energy-do-data-centers-really-use/
+
+#### Green data centers (& vows)
+
+https://www.datacenterknowledge.com/energy/how-hybrid-cloud-and-colocation-can-enable-renewable-it-operations
+
+https://www.zdnet.com/article/microsofts-green-plan-our-data-centers-will-run-on-60-renewable-energy-by-2020/
+
+https://blogs.microsoft.com/blog/2020/01/16/microsoft-will-be-carbon-negative-by-2030/
+
+https://www.colocationamerica.com/blog/renewable-energy-data-centers
+
+https://gizmodo.com/amazon-is-aggressively-pursuing-big-oil-as-it-stalls-ou-1833875828
+
+https://www.reuters.com/article/us-amazon-environment/amazon-vows-to-be-carbon-neutral-by-2040-buying-100000-electric-vans-idUSKBN1W41ZV
+
+https://www.greenpeace.org/usa/news/greenpeace-finds-amazon-breaking-commitment-to-power-cloud-with-100-renewable-energy/
+
+https://www.datacenterdynamics.com/en/news/amazon-breaking-its-renewable-energy-commitments-greenpeace-claims/
 
