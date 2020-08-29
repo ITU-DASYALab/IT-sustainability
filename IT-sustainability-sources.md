@@ -96,6 +96,9 @@ https://www.broad-group.com/data/news/documents/b1m2y6qlx5dv5t
 Dirty Streaming - the BBC video
 https://www.bbc.com/news/av/stories-51742336
 
+TechUK arguments against the BBC video
+https://advanced-television.com/2020/03/09/techuk-refutes-dirty-streaming-documentary-claims/
+
 
 Recalibrating global data center energy-use estimates
 Eric Masanet, Arman Shehabi, Nuoa Lei, Sarah Smith, Jonathan Koomey
@@ -106,6 +109,9 @@ DOI: 10.1126/science.aba3758
 https://science.sciencemag.org/content/367/6481/984.full
 
 https://energyinnovation.org/2020/03/17/how-much-energy-do-data-centers-really-use/
+
+IEA - Digitalisation and Energy
+https://www.iea.org/reports/digitalisation-and-energy
 
 #### Green data centers (& vows)
 
