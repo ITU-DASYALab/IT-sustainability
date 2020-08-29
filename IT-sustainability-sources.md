@@ -1,8 +1,8 @@
 ## Sustainability and IT
 ### Sources
 
-If you have things you would like to add here - pls let me know! sebastian@itu.dk
-
+If you have sources you would like to add here - pls let me know! sebastian@itu.dk
+`
 #### Definition, basics
 
 Our Common Future, From One Earth to One World
@@ -50,6 +50,8 @@ https://www.eia.gov/outlooks/aeo/pdf/AEO2020%20Full%20Report.pdf
 
 https://yearbook.enerdata.net/electricity/electricity-domestic-consumption-data.html
 https://ember-climate.org/wp-content/uploads/2020/03/Ember-2020GlobalElectricityReview-Web.pdf 
+
+https://www.mckinsey.com/industries/oil-and-gas/our-insights/global-energy-perspective-2019#
 
 
 #### ICT energy consumption
@@ -131,3 +133,4 @@ https://www.greenpeace.org/usa/news/greenpeace-finds-amazon-breaking-commitment-
 
 https://www.datacenterdynamics.com/en/news/amazon-breaking-its-renewable-energy-commitments-greenpeace-claims/
 
+`
