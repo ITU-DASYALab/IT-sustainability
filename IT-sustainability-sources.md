@@ -2,7 +2,7 @@
 ### Sources
 
 If you have sources you would like to add here - pls let me know! sebastian@itu.dk
-`
+```
 #### Definition, basics
 
 Our Common Future, From One Earth to One World
@@ -131,6 +131,4 @@ https://www.reuters.com/article/us-amazon-environment/amazon-vows-to-be-carbon-n
 
 https://www.greenpeace.org/usa/news/greenpeace-finds-amazon-breaking-commitment-to-power-cloud-with-100-renewable-energy/
 
-https://www.datacenterdynamics.com/en/news/amazon-breaking-its-renewable-energy-commitments-greenpeace-claims/
-
-`
+https://www.datacenterdynamics.com/en/news/amazon-breaking-its-renewable-energy-commitments-greenpeace-claims/```
