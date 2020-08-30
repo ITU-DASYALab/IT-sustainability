@@ -64,8 +64,8 @@ Nature 561, 163-166 (2018)
 doi: 10.1038/d41586-018-06610-y
 
 https://www.nature.com/articles/d41586-018-06610-y
-
 __(Excellent start point for reading - including many references for further reading, incl some of the below)__
+
 
 Andrae, A.S.G.; Edler, T. 
 On Global Electricity Usage of Communication Technology
@@ -130,3 +130,5 @@ https://www.reuters.com/article/us-amazon-environment/amazon-vows-to-be-carbon-n
 https://www.greenpeace.org/usa/news/greenpeace-finds-amazon-breaking-commitment-to-power-cloud-with-100-renewable-energy/
 
 https://www.datacenterdynamics.com/en/news/amazon-breaking-its-renewable-energy-commitments-greenpeace-claims/```
+
+https://www.rti.org/sites/default/files/facebook_data_centers_2018.pdf
