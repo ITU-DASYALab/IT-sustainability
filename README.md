@@ -8,7 +8,9 @@ energy, electricity, data centers, discourse, forecasts, ...
 
 Any field of study should produce a growing list of things missing - here's mine:
 
-- Environmental Input-Output Analysis, Life Cycle Assessments (LCA)
+- Environmental Input-Output Analysis, Life Cycle Assessments (LCA), "Cradle-to-grave"
+
+-- https://duckduckgo.com/?q="Life-cycle+assessment"+"data+center"
 
 - Software Engineering for Energy Awareness
 
