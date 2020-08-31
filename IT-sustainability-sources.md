@@ -26,6 +26,8 @@ https://en.wikipedia.org/wiki/The_Limits_to_Growth
 Free PDF:
 http://www.donellameadows.org/wp-content/userfiles/Limits-to-Growth-digital-scan-version.pdf
 
+Li, M. (2020). Anthropocene, Emissions Budget, and the Structural Crisis of the Capitalist World-System. Journal of World-Systems Research, 26(2), 288-317. https://doi.org/10.5195/jwsr.2020.977
+
 
 #### IT & Internet statistics
 
@@ -45,6 +47,14 @@ https://doi.org/10.1016/j.erss.2020.101721
 https://www.technologyreview.com/2017/11/16/147609/bitcoin-uses-massive-amounts-of-energybut-theres-a-plan-to-fix-it/
 
 https://doi.org/10.1016/j.erss.2020.101721
+
+Cloud gaming: Are game streaming services bad for the planet?
+https://www.bbc.com/news/technology-53838645 - referring to 
+
+From One Edge to the Other: Exploring Gaming's Rising Presence on the Network
+Matthew  Marsden, Mike  Hazas, Matthew  Broadbent
+ICT4S2020: Proceedings of the 7th International Conference on ICT for Sustainability June 2020 Pages 247–254
+https://doi.org/10.1145/3401335.3401366
 
 ####  Global energy consumption, general
 
