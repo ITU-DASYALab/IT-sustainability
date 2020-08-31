@@ -20,6 +20,13 @@ Sustainable Development Goals
 https://en.wikipedia.org/wiki/Sustainable_Development_Goals
 
 
+Limits to Growth, Club of Rome 1972
+
+https://en.wikipedia.org/wiki/The_Limits_to_Growth
+Free PDF:
+http://www.donellameadows.org/wp-content/userfiles/Limits-to-Growth-digital-scan-version.pdf
+
+
 #### IT & Internet statistics
 
 https://www.cisco.com/c/en/us/solutions/collateral/executive-perspectives/annual-internet-report/white-paper-c11-741490.html 
