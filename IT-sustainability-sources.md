@@ -130,7 +130,13 @@ https://energyinnovation.org/2020/03/17/how-much-energy-do-data-centers-really-u
 IEA - Digitalisation and Energy
 https://www.iea.org/reports/digitalisation-and-energy
 
-#### Green data centers (& vows)
+The life cycle assessment of a UK data centre
+March 2015The International Journal of Life Cycle Assessment 20(3)
+DOI: 10.1007/s11367-014-0838-7
+https://www.researchgate.net/publication/271710820_The_life_cycle_assessment_of_a_UK_data_centre
+
+
+#### Media: Green data centers (& vows)
 
 https://www.datacenterknowledge.com/energy/how-hybrid-cloud-and-colocation-can-enable-renewable-it-operations
 
