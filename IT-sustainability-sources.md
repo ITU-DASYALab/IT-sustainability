@@ -155,3 +155,12 @@ https://www.greenpeace.org/usa/news/greenpeace-finds-amazon-breaking-commitment-
 https://www.datacenterdynamics.com/en/news/amazon-breaking-its-renewable-energy-commitments-greenpeace-claims/```
 
 https://www.rti.org/sites/default/files/facebook_data_centers_2018.pdf
+
+
+#### Specifically in Denmark
+
+https://via.ritzau.dk/pressemeddelelse/aau-forskere-vil-energimaerke-software?publisherId=8155951&releaseId=13583716
+
+https://ing.dk/artikel/rapport-datacentre-vil-staa-tredjedel-danmarks-elforbrug-211697/
+
+https://ens.dk/sites/ens.dk/files/Analyser/temaanalyse_om_store_datacentre.pdf
