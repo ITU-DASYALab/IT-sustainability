@@ -165,7 +165,4 @@ https://ing.dk/artikel/rapport-datacentre-vil-staa-tredjedel-danmarks-elforbrug-
 
 https://ens.dk/sites/ens.dk/files/Analyser/temaanalyse_om_store_datacentre.pdf
 
-DTU Compute
-Jan Madsen, Sven Karlsson
-"Please feel free to connect to me: svea@dtu.dk on energy efficiency. There are several projects. "
-@au612681, Sebastian: We are more than willing to collaborate. Feel free to contact me: svea@dtu.dk 
+Basisfremskrivning 2020 - https://ens.dk/sites/ens.dk/files/Basisfremskrivning/basisfremskrivning_2020-webtilg.pdf
