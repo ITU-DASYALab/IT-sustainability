@@ -56,6 +56,9 @@ Matthew  Marsden, Mike  Hazas, Matthew  Broadbent
 ICT4S2020: Proceedings of the 7th International Conference on ICT for Sustainability June 2020 Pages 247–254
 https://doi.org/10.1145/3401335.3401366
 
+Andrae, A. S. Internet’s handprint. 2021 (unpublished?)
+https://pisrt.org/psrpress/j/easl/2021/1/internet's-handprint.pdf
+
 ####  Global energy consumption, general
 
 https://www.bp.com/en/global/corporate/energy-economics/energy-outlook/demand-by-sector.html
