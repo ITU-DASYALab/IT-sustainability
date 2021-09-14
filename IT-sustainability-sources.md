@@ -56,8 +56,7 @@ Matthew  Marsden, Mike  Hazas, Matthew  Broadbent
 ICT4S2020: Proceedings of the 7th International Conference on ICT for Sustainability June 2020 Pages 247–254
 https://doi.org/10.1145/3401335.3401366
 
-Andrae, A. S. Internet’s handprint. 2021 (unpublished?)
-https://pisrt.org/psrpress/j/easl/2021/1/internet's-handprint.pdf
+
 
 ####  Global energy consumption, general
 
@@ -137,6 +136,24 @@ The life cycle assessment of a UK data centre
 March 2015The International Journal of Life Cycle Assessment 20(3)
 DOI: 10.1007/s11367-014-0838-7
 https://www.researchgate.net/publication/271710820_The_life_cycle_assessment_of_a_UK_data_centre
+
+Andrae, A. S. Internet’s handprint. 2021 (unpublished?)
+https://pisrt.org/psrpress/j/easl/2021/1/internet's-handprint.pdf
+
+Cited therein:
+
+Lange, S., Pohl, J., & Santarius, T. (2020). Digitalization and energy consumption. Does ICT reduce energy demand?.
+Ecological Economics, 176, 106760.
+
+Mir, U. (2020). Bitcoin and Its Energy Usage: Existing Approaches, Important Opinions, Current Trends, and Future
+Challenges. KSII Transactions on Internet and Information Systems (TIIS), 14(8), 3243-3256.
+
+Liu, Y., Wei, X., Xiao, J., Liu, Z., Xu, Y., & Tian, Y. (2020). Energy consumption and emission mitigation prediction
+based on data center traffic and PUE for global data centers. Global Energy Interconnection, 3(3), 272-282.
+
+Stobbe, L., Nissen, N. F., Druschke, J., Zedel, H., Richter, N., & Lang, K. D. (2019). Methodology for Modeling
+the Energy and Material Footprint of Future Telecommunication Networks. In EcoDesign and Sustainability II (pp.
+223-238). Springer, Singapore.
 
 
 #### Media: Green data centers (& vows)
