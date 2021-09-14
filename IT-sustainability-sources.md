@@ -155,6 +155,30 @@ Stobbe, L., Nissen, N. F., Druschke, J., Zedel, H., Richter, N., & Lang, K. D. (
 the Energy and Material Footprint of Future Telecommunication Networks. In EcoDesign and Sustainability II (pp.
 223-238). Springer, Singapore.
 
+"In this report, we examine the available evidence regarding ICT's current and projected climate impacts. We examine peer-reviewed studies which estimate ICT's current share of global greenhouse gas (GHG) emissions to be 1.8-2.8% of global GHG emissions. Our findings indicate that published estimates all underestimate the carbon footprint of ICT, possibly by as much as 25%, by failing to account for all of ICT's supply chains and full lifecycle (i.e. emissions scopes 1, 2 and fully inclusive 3). Adjusting for truncation of supply chain pathways, we estimate that ICT's share of emissions could actually be as high as 2.1-3.9%. "
+Freitag, C., Berners-Lee, M., Widdicks, K., Knowles, B., Blair, G., & Friday, A. (2021). The climate impact of ICT: A review of estimates, trends and regulations. arXiv preprint arXiv:2102.02622.
+
+"A hugely optimistic scenario - which takes into account 20% annual improvement of the J/bit in data centers
+and networks until 2030 is presented. However, the electric power consumption of the present ICT scope will
+be significant unless great efforts are put into power saving features enabling such improvements of J/bit.
+Despite evident risks, it seems though that planned power saving measures and innovation will be able to
+keep the electricity consumption of ICT and the World under some kind of control. The major conclusion is
+based on several simulations in the present study - that future consumer ICT infrastructure cannot slow its
+overall electricity use until 2030 and it will use more than today. Data traffic may not be the best proxy metric
+for estimating computing electricity. Operations and J/operation seem more promising for forecasting and
+scaling of bottom-up models."
+Andrae, A. S. (2020). New perspectives on internet electricity use in 2030. Eng. Appl. Sci. Lett., 3(2), 19-31.
+
+Overall, energy consumption rises due to ICT.
+ICT decreases energy demand via energy efficiency and sectoral change.
+ICT increases energy demand via a growing ICT sector, rebounds and economic growth.
+Digitalization does not decouple economic growth from energy consumption.
+Insights from debates on decoupling can explain these relationships.
+Lange, S., Pohl, J., & Santarius, T. (2020). Digitalization and energy consumption. Does ICT reduce energy demand?. Ecological Economics, 176, 106760.
+
+Andrae, A. S. (2020). Hypotheses for primary energy use, electricity use and CO2 emissions of global computing and its shares of the total between 2020 and 2030. WSEAS Transactions on Power Systems, 15, 50-59.
+
+
 
 #### Media: Green data centers (& vows)
 
