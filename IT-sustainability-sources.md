@@ -178,6 +178,9 @@ Lange, S., Pohl, J., & Santarius, T. (2020). Digitalization and energy consumpti
 
 Andrae, A. S. (2020). Hypotheses for primary energy use, electricity use and CO2 emissions of global computing and its shares of the total between 2020 and 2030. WSEAS Transactions on Power Systems, 15, 50-59.
 
+Gupta, U., Kim, Y. G., Lee, S., Tse, J., Lee, H. H. S., Wei, G. Y., ... & Wu, C. J. (2021, February). Chasing Carbon: The Elusive Environmental Footprint of Computing. In 2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA) (pp. 854-867). IEEE.
+https://ugupta.com/files/ChasingCarbon_HPCA2021.pdf
+
 
 
 #### Media: Green data centers (& vows)
