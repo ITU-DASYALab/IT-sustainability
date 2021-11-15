@@ -181,7 +181,16 @@ Andrae, A. S. (2020). Hypotheses for primary energy use, electricity use and CO2
 Gupta, U., Kim, Y. G., Lee, S., Tse, J., Lee, H. H. S., Wei, G. Y., ... & Wu, C. J. (2021, February). Chasing Carbon: The Elusive Environmental Footprint of Computing. In 2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA) (pp. 854-867). IEEE.
 https://ugupta.com/files/ChasingCarbon_HPCA2021.pdf
 
+Data Centres and Data Transmission Networks
+https://www.iea.org/reports/data-centres-and-data-transmission-networks
 
+https://www.iea.org/commentaries/data-centres-and-energy-from-global-headlines-to-local-headaches
+
+Data centers 2018. Efficiency gains are not enough: Data center energy consumption continues to rise significantly - Cloud computing boosts growth
+DOI: 10.13140/RG.2.2.26033.40800
+Ralph Hintemann
+
+Madlener, Reinhard and Sheykhha, Siamak and Briglauer, Wolfgang, The Electricity- and CO2-Saving Potentials Offered by Regulation of European Video-Streaming Services (May 1, 2021). FCN Working Paper No. 05/2021, Available at SSRN: https://ssrn.com/abstract=3872847 or http://dx.doi.org/10.2139/ssrn.3872847 
 
 #### Media: Green data centers (& vows)
 
