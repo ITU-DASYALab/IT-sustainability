@@ -225,3 +225,7 @@ https://ing.dk/artikel/rapport-datacentre-vil-staa-tredjedel-danmarks-elforbrug-
 https://ens.dk/sites/ens.dk/files/Analyser/temaanalyse_om_store_datacentre.pdf
 
 Basisfremskrivning 2020 - https://ens.dk/sites/ens.dk/files/Basisfremskrivning/basisfremskrivning_2020-webtilg.pdf
+
+#### Specifically through AI (updated 2024)
+
+https://datacentremagazine.com/data-centres/global-ai-boom-to-triple-eu-data-centre-energy-use-by-2030
