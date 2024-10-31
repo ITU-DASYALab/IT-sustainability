@@ -195,6 +195,10 @@ Ralph Hintemann
 
 Madlener, Reinhard and Sheykhha, Siamak and Briglauer, Wolfgang, The Electricity- and CO2-Saving Potentials Offered by Regulation of European Video-Streaming Services (May 1, 2021). FCN Working Paper No. 05/2021, Available at SSRN: https://ssrn.com/abstract=3872847 or http://dx.doi.org/10.2139/ssrn.3872847 
 
+
+Freitag, Charlotte, et al. "The climate impact of ICT: A review of estimates, trends and regulations." arXiv preprint arXiv:2102.02622 (2021).
+[Freitag, Charlotte, et al. "The climate impact of ICT: A review of estimates, trends and regulations." arXiv preprint arXiv:2102.02622 (2021).](https://arxiv.org/pdf/2102.02622)
+
 #### Media: Green data centers (& vows)
 
 https://www.datacenterknowledge.com/energy/how-hybrid-cloud-and-colocation-can-enable-renewable-it-operations
@@ -229,3 +233,4 @@ Basisfremskrivning 2020 - https://ens.dk/sites/ens.dk/files/Basisfremskrivning/b
 #### Specifically through AI (updated 2024)
 
 https://datacentremagazine.com/data-centres/global-ai-boom-to-triple-eu-data-centre-energy-use-by-2030
+
