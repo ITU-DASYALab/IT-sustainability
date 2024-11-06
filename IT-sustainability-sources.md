@@ -234,3 +234,31 @@ Basisfremskrivning 2020 - https://ens.dk/sites/ens.dk/files/Basisfremskrivning/b
 
 https://datacentremagazine.com/data-centres/global-ai-boom-to-triple-eu-data-centre-energy-use-by-2030
 
+
+AI is an energy hog. This is what it means for climate change.
+
+MIT Tech review
+
+https://www.technologyreview.com/2024/05/23/1092777/ai-is-an-energy-hog-this-is-what-it-means-for-climate-change/
+
+
+How AI Is Fueling a Boom in Data Centers and Energy Demand
+
+Time, June 2024
+
+https://time.com/6987773/ai-data-centers-energy-usage-climate-change/
+
+
+Big Oil Sees AI Boom Driving 'Crazy Demand' for US Natural Gas
+
+Bloomberg Oct 2024
+
+https://www.bloomberg.com/news/articles/2024-10-29/big-oil-sees-ai-boom-driving-crazy-demand-for-us-natural-gas
+
+
+AI revolution will be boon for natural gas, say fossil fuel bosses
+
+FT April 2024
+
+https://www.ft.com/content/1f93b9b2-b264-44e2-87cc-83c04d8f1e2b
+
